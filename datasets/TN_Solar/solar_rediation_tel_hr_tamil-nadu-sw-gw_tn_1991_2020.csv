@@ -1,0 +1,881 @@
+SlNo,Station,Agency,State LGD Code,State,District LGD Code,District,Tehsil,Block,Village,River,Basin,Tributary,Subtributary,SubSubtributary,Local River,Latitude,Longitude,Data Acquisition Time,Solar Radiation (Watt/m2)
+1,Bavanisagar Dam,Tamil Nadu SW GW,33,Tamil Nadu,573,Erode,SATHYAMANGALAM,-,-,-,-,-,-,-,-,11.47333333,77.13027778,24-04-2003 07:00,24
+2,Bavanisagar Dam,Tamil Nadu SW GW,33,Tamil Nadu,573,Erode,SATHYAMANGALAM,-,-,-,-,-,-,-,-,11.47333333,77.13027778,24-04-2003 08:00,161
+3,Bavanisagar Dam,Tamil Nadu SW GW,33,Tamil Nadu,573,Erode,SATHYAMANGALAM,-,-,-,-,-,-,-,-,11.47333333,77.13027778,24-04-2003 09:00,335
+4,Bavanisagar Dam,Tamil Nadu SW GW,33,Tamil Nadu,573,Erode,SATHYAMANGALAM,-,-,-,-,-,-,-,-,11.47333333,77.13027778,24-04-2003 10:00,481
+5,Bavanisagar Dam,Tamil Nadu SW GW,33,Tamil Nadu,573,Erode,SATHYAMANGALAM,-,-,-,-,-,-,-,-,11.47333333,77.13027778,24-04-2003 11:00,587
+6,Bavanisagar Dam,Tamil Nadu SW GW,33,Tamil Nadu,573,Erode,SATHYAMANGALAM,-,-,-,-,-,-,-,-,11.47333333,77.13027778,24-04-2003 12:00,615
+7,Bavanisagar Dam,Tamil Nadu SW GW,33,Tamil Nadu,573,Erode,SATHYAMANGALAM,-,-,-,-,-,-,-,-,11.47333333,77.13027778,24-04-2003 13:00,598
+8,Bavanisagar Dam,Tamil Nadu SW GW,33,Tamil Nadu,573,Erode,SATHYAMANGALAM,-,-,-,-,-,-,-,-,11.47333333,77.13027778,24-04-2003 14:00,515
+9,Bavanisagar Dam,Tamil Nadu SW GW,33,Tamil Nadu,573,Erode,SATHYAMANGALAM,-,-,-,-,-,-,-,-,11.47333333,77.13027778,24-04-2003 15:00,408
+10,Bavanisagar Dam,Tamil Nadu SW GW,33,Tamil Nadu,573,Erode,SATHYAMANGALAM,-,-,-,-,-,-,-,-,11.47333333,77.13027778,24-04-2003 16:00,229
+11,Bavanisagar Dam,Tamil Nadu SW GW,33,Tamil Nadu,573,Erode,SATHYAMANGALAM,-,-,-,-,-,-,-,-,11.47333333,77.13027778,24-04-2003 17:00,80
+12,Cheranmahadevi,Tamil Nadu SW GW,33,Tamil Nadu,592,Tirunelveli,Cheranmahadevi,-,-,-,-,-,-,-,-,8.69,77.5625,10-12-2008 08:00,74
+13,Cheranmahadevi,Tamil Nadu SW GW,33,Tamil Nadu,592,Tirunelveli,Cheranmahadevi,-,-,-,-,-,-,-,-,8.69,77.5625,10-12-2008 09:00,115
+14,Cheranmahadevi,Tamil Nadu SW GW,33,Tamil Nadu,592,Tirunelveli,Cheranmahadevi,-,-,-,-,-,-,-,-,8.69,77.5625,10-12-2008 10:00,67
+15,Cheranmahadevi,Tamil Nadu SW GW,33,Tamil Nadu,592,Tirunelveli,Cheranmahadevi,-,-,-,-,-,-,-,-,8.69,77.5625,10-12-2008 11:00,91
+16,Cheranmahadevi,Tamil Nadu SW GW,33,Tamil Nadu,592,Tirunelveli,Cheranmahadevi,-,-,-,-,-,-,-,-,8.69,77.5625,10-12-2008 12:00,96
+17,Cheranmahadevi,Tamil Nadu SW GW,33,Tamil Nadu,592,Tirunelveli,Cheranmahadevi,-,-,-,-,-,-,-,-,8.69,77.5625,10-12-2008 13:00,98
+18,Cheranmahadevi,Tamil Nadu SW GW,33,Tamil Nadu,592,Tirunelveli,Cheranmahadevi,-,-,-,-,-,-,-,-,8.69,77.5625,10-12-2008 14:00,116
+19,Cheranmahadevi,Tamil Nadu SW GW,33,Tamil Nadu,592,Tirunelveli,Cheranmahadevi,-,-,-,-,-,-,-,-,8.69,77.5625,10-12-2008 15:00,114
+20,Cheranmahadevi,Tamil Nadu SW GW,33,Tamil Nadu,592,Tirunelveli,Cheranmahadevi,-,-,-,-,-,-,-,-,8.69,77.5625,10-12-2008 16:00,101
+21,Cheranmahadevi,Tamil Nadu SW GW,33,Tamil Nadu,592,Tirunelveli,Cheranmahadevi,-,-,-,-,-,-,-,-,8.69,77.5625,10-12-2008 17:00,57
+22,Cheranmahadevi,Tamil Nadu SW GW,33,Tamil Nadu,592,Tirunelveli,Cheranmahadevi,-,-,-,-,-,-,-,-,8.69,77.5625,23-03-2014 06:30,29
+23,Cheranmahadevi,Tamil Nadu SW GW,33,Tamil Nadu,592,Tirunelveli,Cheranmahadevi,-,-,-,-,-,-,-,-,8.69,77.5625,23-03-2014 07:00,61
+24,Cheranmahadevi,Tamil Nadu SW GW,33,Tamil Nadu,592,Tirunelveli,Cheranmahadevi,-,-,-,-,-,-,-,-,8.69,77.5625,23-03-2014 07:30,70
+25,Cheranmahadevi,Tamil Nadu SW GW,33,Tamil Nadu,592,Tirunelveli,Cheranmahadevi,-,-,-,-,-,-,-,-,8.69,77.5625,23-03-2014 08:00,157
+26,Cheranmahadevi,Tamil Nadu SW GW,33,Tamil Nadu,592,Tirunelveli,Cheranmahadevi,-,-,-,-,-,-,-,-,8.69,77.5625,23-03-2014 08:30,202
+27,Cheranmahadevi,Tamil Nadu SW GW,33,Tamil Nadu,592,Tirunelveli,Cheranmahadevi,-,-,-,-,-,-,-,-,8.69,77.5625,23-03-2014 09:00,302
+28,Cheranmahadevi,Tamil Nadu SW GW,33,Tamil Nadu,592,Tirunelveli,Cheranmahadevi,-,-,-,-,-,-,-,-,8.69,77.5625,23-03-2014 09:30,221
+29,Cheranmahadevi,Tamil Nadu SW GW,33,Tamil Nadu,592,Tirunelveli,Cheranmahadevi,-,-,-,-,-,-,-,-,8.69,77.5625,23-03-2014 10:00,241
+30,Cheranmahadevi,Tamil Nadu SW GW,33,Tamil Nadu,592,Tirunelveli,Cheranmahadevi,-,-,-,-,-,-,-,-,8.69,77.5625,23-03-2014 10:30,549
+31,Cheranmahadevi,Tamil Nadu SW GW,33,Tamil Nadu,592,Tirunelveli,Cheranmahadevi,-,-,-,-,-,-,-,-,8.69,77.5625,23-03-2014 11:00,168
+32,Cheranmahadevi,Tamil Nadu SW GW,33,Tamil Nadu,592,Tirunelveli,Cheranmahadevi,-,-,-,-,-,-,-,-,8.69,77.5625,23-03-2014 11:30,210
+33,Cheranmahadevi,Tamil Nadu SW GW,33,Tamil Nadu,592,Tirunelveli,Cheranmahadevi,-,-,-,-,-,-,-,-,8.69,77.5625,23-03-2014 12:00,285
+34,Cheranmahadevi,Tamil Nadu SW GW,33,Tamil Nadu,592,Tirunelveli,Cheranmahadevi,-,-,-,-,-,-,-,-,8.69,77.5625,23-03-2014 12:30,388
+35,Cheranmahadevi,Tamil Nadu SW GW,33,Tamil Nadu,592,Tirunelveli,Cheranmahadevi,-,-,-,-,-,-,-,-,8.69,77.5625,23-03-2014 13:00,425
+36,Cheranmahadevi,Tamil Nadu SW GW,33,Tamil Nadu,592,Tirunelveli,Cheranmahadevi,-,-,-,-,-,-,-,-,8.69,77.5625,23-03-2014 13:30,537
+37,Cheranmahadevi,Tamil Nadu SW GW,33,Tamil Nadu,592,Tirunelveli,Cheranmahadevi,-,-,-,-,-,-,-,-,8.69,77.5625,23-03-2014 14:00,351
+38,Cheranmahadevi,Tamil Nadu SW GW,33,Tamil Nadu,592,Tirunelveli,Cheranmahadevi,-,-,-,-,-,-,-,-,8.69,77.5625,23-03-2014 14:30,241
+39,Cheranmahadevi,Tamil Nadu SW GW,33,Tamil Nadu,592,Tirunelveli,Cheranmahadevi,-,-,-,-,-,-,-,-,8.69,77.5625,23-03-2014 15:00,209
+40,Cheranmahadevi,Tamil Nadu SW GW,33,Tamil Nadu,592,Tirunelveli,Cheranmahadevi,-,-,-,-,-,-,-,-,8.69,77.5625,23-03-2014 15:30,114
+41,Cheranmahadevi,Tamil Nadu SW GW,33,Tamil Nadu,592,Tirunelveli,Cheranmahadevi,-,-,-,-,-,-,-,-,8.69,77.5625,23-03-2014 16:00,150
+42,Cheranmahadevi,Tamil Nadu SW GW,33,Tamil Nadu,592,Tirunelveli,Cheranmahadevi,-,-,-,-,-,-,-,-,8.69,77.5625,23-03-2014 16:30,114
+43,Cheranmahadevi,Tamil Nadu SW GW,33,Tamil Nadu,592,Tirunelveli,Cheranmahadevi,-,-,-,-,-,-,-,-,8.69,77.5625,23-03-2014 17:00,42
+44,Cheranmahadevi,Tamil Nadu SW GW,33,Tamil Nadu,592,Tirunelveli,Cheranmahadevi,-,-,-,-,-,-,-,-,8.69,77.5625,23-03-2014 17:30,51
+45,Cheranmahadevi,Tamil Nadu SW GW,33,Tamil Nadu,592,Tirunelveli,Cheranmahadevi,-,-,-,-,-,-,-,-,8.69,77.5625,23-03-2014 18:00,39
+46,Dusi Ayyangarkulam,Tamil Nadu SW GW,33,Tamil Nadu,593,Tiruvannamalai,CHEYYAR,-,-,-,-,-,-,-,-,12.78416667,79.66388889,24-04-2003 07:00,90
+47,Dusi Ayyangarkulam,Tamil Nadu SW GW,33,Tamil Nadu,593,Tiruvannamalai,CHEYYAR,-,-,-,-,-,-,-,-,12.78416667,79.66388889,24-04-2003 08:00,202
+48,Dusi Ayyangarkulam,Tamil Nadu SW GW,33,Tamil Nadu,593,Tiruvannamalai,CHEYYAR,-,-,-,-,-,-,-,-,12.78416667,79.66388889,24-04-2003 09:00,415
+49,Dusi Ayyangarkulam,Tamil Nadu SW GW,33,Tamil Nadu,593,Tiruvannamalai,CHEYYAR,-,-,-,-,-,-,-,-,12.78416667,79.66388889,24-04-2003 10:00,210
+50,Dusi Ayyangarkulam,Tamil Nadu SW GW,33,Tamil Nadu,593,Tiruvannamalai,CHEYYAR,-,-,-,-,-,-,-,-,12.78416667,79.66388889,24-04-2003 11:00,271
+51,Dusi Ayyangarkulam,Tamil Nadu SW GW,33,Tamil Nadu,593,Tiruvannamalai,CHEYYAR,-,-,-,-,-,-,-,-,12.78416667,79.66388889,24-04-2003 12:00,396
+52,Dusi Ayyangarkulam,Tamil Nadu SW GW,33,Tamil Nadu,593,Tiruvannamalai,CHEYYAR,-,-,-,-,-,-,-,-,12.78416667,79.66388889,24-04-2003 13:00,74
+53,Dusi Ayyangarkulam,Tamil Nadu SW GW,33,Tamil Nadu,593,Tiruvannamalai,CHEYYAR,-,-,-,-,-,-,-,-,12.78416667,79.66388889,24-04-2003 14:00,46
+54,Dusi Ayyangarkulam,Tamil Nadu SW GW,33,Tamil Nadu,593,Tiruvannamalai,CHEYYAR,-,-,-,-,-,-,-,-,12.78416667,79.66388889,24-04-2003 15:00,196
+55,Dusi Ayyangarkulam,Tamil Nadu SW GW,33,Tamil Nadu,593,Tiruvannamalai,CHEYYAR,-,-,-,-,-,-,-,-,12.78416667,79.66388889,24-04-2003 16:00,124
+56,Dusi Ayyangarkulam,Tamil Nadu SW GW,33,Tamil Nadu,593,Tiruvannamalai,CHEYYAR,-,-,-,-,-,-,-,-,12.78416667,79.66388889,24-04-2003 17:00,50
+57,Dusi Ayyangarkulam,Tamil Nadu SW GW,33,Tamil Nadu,593,Tiruvannamalai,CHEYYAR,-,-,-,-,-,-,-,-,12.78416667,79.66388889,28-01-2006 08:00,93
+58,Dusi Ayyangarkulam,Tamil Nadu SW GW,33,Tamil Nadu,593,Tiruvannamalai,CHEYYAR,-,-,-,-,-,-,-,-,12.78416667,79.66388889,28-01-2006 09:00,351
+59,Dusi Ayyangarkulam,Tamil Nadu SW GW,33,Tamil Nadu,593,Tiruvannamalai,CHEYYAR,-,-,-,-,-,-,-,-,12.78416667,79.66388889,28-01-2006 10:00,116
+60,Dusi Ayyangarkulam,Tamil Nadu SW GW,33,Tamil Nadu,593,Tiruvannamalai,CHEYYAR,-,-,-,-,-,-,-,-,12.78416667,79.66388889,28-01-2006 11:00,716
+61,Dusi Ayyangarkulam,Tamil Nadu SW GW,33,Tamil Nadu,593,Tiruvannamalai,CHEYYAR,-,-,-,-,-,-,-,-,12.78416667,79.66388889,28-01-2006 12:00,264
+62,Dusi Ayyangarkulam,Tamil Nadu SW GW,33,Tamil Nadu,593,Tiruvannamalai,CHEYYAR,-,-,-,-,-,-,-,-,12.78416667,79.66388889,28-01-2006 13:00,157
+63,Dusi Ayyangarkulam,Tamil Nadu SW GW,33,Tamil Nadu,593,Tiruvannamalai,CHEYYAR,-,-,-,-,-,-,-,-,12.78416667,79.66388889,28-01-2006 14:00,189
+64,Dusi Ayyangarkulam,Tamil Nadu SW GW,33,Tamil Nadu,593,Tiruvannamalai,CHEYYAR,-,-,-,-,-,-,-,-,12.78416667,79.66388889,28-01-2006 15:00,102
+65,Dusi Ayyangarkulam,Tamil Nadu SW GW,33,Tamil Nadu,593,Tiruvannamalai,CHEYYAR,-,-,-,-,-,-,-,-,12.78416667,79.66388889,28-01-2006 16:00,235
+66,Dusi Ayyangarkulam,Tamil Nadu SW GW,33,Tamil Nadu,593,Tiruvannamalai,CHEYYAR,-,-,-,-,-,-,-,-,12.78416667,79.66388889,28-01-2006 17:00,76
+67,Dusi Ayyangarkulam,Tamil Nadu SW GW,33,Tamil Nadu,593,Tiruvannamalai,CHEYYAR,-,-,-,-,-,-,-,-,12.78416667,79.66388889,26-03-2014 07:00,30
+68,Dusi Ayyangarkulam,Tamil Nadu SW GW,33,Tamil Nadu,593,Tiruvannamalai,CHEYYAR,-,-,-,-,-,-,-,-,12.78416667,79.66388889,26-03-2014 08:00,111
+69,Dusi Ayyangarkulam,Tamil Nadu SW GW,33,Tamil Nadu,593,Tiruvannamalai,CHEYYAR,-,-,-,-,-,-,-,-,12.78416667,79.66388889,26-03-2014 09:00,353
+70,Dusi Ayyangarkulam,Tamil Nadu SW GW,33,Tamil Nadu,593,Tiruvannamalai,CHEYYAR,-,-,-,-,-,-,-,-,12.78416667,79.66388889,26-03-2014 10:00,160
+71,Dusi Ayyangarkulam,Tamil Nadu SW GW,33,Tamil Nadu,593,Tiruvannamalai,CHEYYAR,-,-,-,-,-,-,-,-,12.78416667,79.66388889,26-03-2014 11:00,667
+72,Dusi Ayyangarkulam,Tamil Nadu SW GW,33,Tamil Nadu,593,Tiruvannamalai,CHEYYAR,-,-,-,-,-,-,-,-,12.78416667,79.66388889,26-03-2014 12:00,436
+73,Dusi Ayyangarkulam,Tamil Nadu SW GW,33,Tamil Nadu,593,Tiruvannamalai,CHEYYAR,-,-,-,-,-,-,-,-,12.78416667,79.66388889,26-03-2014 13:00,144
+74,Dusi Ayyangarkulam,Tamil Nadu SW GW,33,Tamil Nadu,593,Tiruvannamalai,CHEYYAR,-,-,-,-,-,-,-,-,12.78416667,79.66388889,26-03-2014 14:00,213
+75,Dusi Ayyangarkulam,Tamil Nadu SW GW,33,Tamil Nadu,593,Tiruvannamalai,CHEYYAR,-,-,-,-,-,-,-,-,12.78416667,79.66388889,26-03-2014 15:00,86
+76,Dusi Ayyangarkulam,Tamil Nadu SW GW,33,Tamil Nadu,593,Tiruvannamalai,CHEYYAR,-,-,-,-,-,-,-,-,12.78416667,79.66388889,26-03-2014 16:00,30
+77,Gollapally,Tamil Nadu SW GW,33,Tamil Nadu,595,Vellore,Gudiyatham,-,-,-,-,-,-,-,-,13.03194444,78.86444444,09-05-2003 08:00,53
+78,Gollapally,Tamil Nadu SW GW,33,Tamil Nadu,595,Vellore,Gudiyatham,-,-,-,-,-,-,-,-,13.03194444,78.86444444,09-05-2003 09:00,124
+79,Gollapally,Tamil Nadu SW GW,33,Tamil Nadu,595,Vellore,Gudiyatham,-,-,-,-,-,-,-,-,13.03194444,78.86444444,09-05-2003 10:00,352
+80,Gollapally,Tamil Nadu SW GW,33,Tamil Nadu,595,Vellore,Gudiyatham,-,-,-,-,-,-,-,-,13.03194444,78.86444444,09-05-2003 11:00,202
+81,Gollapally,Tamil Nadu SW GW,33,Tamil Nadu,595,Vellore,Gudiyatham,-,-,-,-,-,-,-,-,13.03194444,78.86444444,09-05-2003 12:00,298
+82,Gollapally,Tamil Nadu SW GW,33,Tamil Nadu,595,Vellore,Gudiyatham,-,-,-,-,-,-,-,-,13.03194444,78.86444444,09-05-2003 14:00,121
+83,Gollapally,Tamil Nadu SW GW,33,Tamil Nadu,595,Vellore,Gudiyatham,-,-,-,-,-,-,-,-,13.03194444,78.86444444,09-05-2003 15:00,304
+84,Gollapally,Tamil Nadu SW GW,33,Tamil Nadu,595,Vellore,Gudiyatham,-,-,-,-,-,-,-,-,13.03194444,78.86444444,09-05-2003 16:00,66
+85,Gollapally,Tamil Nadu SW GW,33,Tamil Nadu,595,Vellore,Gudiyatham,-,-,-,-,-,-,-,-,13.03194444,78.86444444,21-07-2006 08:00,195
+86,Gollapally,Tamil Nadu SW GW,33,Tamil Nadu,595,Vellore,Gudiyatham,-,-,-,-,-,-,-,-,13.03194444,78.86444444,21-07-2006 09:00,78
+87,Gollapally,Tamil Nadu SW GW,33,Tamil Nadu,595,Vellore,Gudiyatham,-,-,-,-,-,-,-,-,13.03194444,78.86444444,21-07-2006 10:00,209
+88,Gollapally,Tamil Nadu SW GW,33,Tamil Nadu,595,Vellore,Gudiyatham,-,-,-,-,-,-,-,-,13.03194444,78.86444444,21-07-2006 11:00,253
+89,Gollapally,Tamil Nadu SW GW,33,Tamil Nadu,595,Vellore,Gudiyatham,-,-,-,-,-,-,-,-,13.03194444,78.86444444,21-07-2006 12:00,270
+90,Gollapally,Tamil Nadu SW GW,33,Tamil Nadu,595,Vellore,Gudiyatham,-,-,-,-,-,-,-,-,13.03194444,78.86444444,21-07-2006 13:00,234
+91,Gollapally,Tamil Nadu SW GW,33,Tamil Nadu,595,Vellore,Gudiyatham,-,-,-,-,-,-,-,-,13.03194444,78.86444444,21-07-2006 14:00,139
+92,Gollapally,Tamil Nadu SW GW,33,Tamil Nadu,595,Vellore,Gudiyatham,-,-,-,-,-,-,-,-,13.03194444,78.86444444,21-07-2006 15:00,140
+93,Gollapally,Tamil Nadu SW GW,33,Tamil Nadu,595,Vellore,Gudiyatham,-,-,-,-,-,-,-,-,13.03194444,78.86444444,21-07-2006 16:00,79
+94,Gollapally,Tamil Nadu SW GW,33,Tamil Nadu,595,Vellore,Gudiyatham,-,-,-,-,-,-,-,-,13.03194444,78.86444444,08-02-2007 07:00,34
+95,Gollapally,Tamil Nadu SW GW,33,Tamil Nadu,595,Vellore,Gudiyatham,-,-,-,-,-,-,-,-,13.03194444,78.86444444,08-02-2007 08:00,204
+96,Gollapally,Tamil Nadu SW GW,33,Tamil Nadu,595,Vellore,Gudiyatham,-,-,-,-,-,-,-,-,13.03194444,78.86444444,08-02-2007 09:00,440
+97,Gollapally,Tamil Nadu SW GW,33,Tamil Nadu,595,Vellore,Gudiyatham,-,-,-,-,-,-,-,-,13.03194444,78.86444444,08-02-2007 10:00,589
+98,Gollapally,Tamil Nadu SW GW,33,Tamil Nadu,595,Vellore,Gudiyatham,-,-,-,-,-,-,-,-,13.03194444,78.86444444,08-02-2007 11:00,701
+99,Gollapally,Tamil Nadu SW GW,33,Tamil Nadu,595,Vellore,Gudiyatham,-,-,-,-,-,-,-,-,13.03194444,78.86444444,08-02-2007 12:00,710
+100,Gollapally,Tamil Nadu SW GW,33,Tamil Nadu,595,Vellore,Gudiyatham,-,-,-,-,-,-,-,-,13.03194444,78.86444444,08-02-2007 13:00,745
+101,Gollapally,Tamil Nadu SW GW,33,Tamil Nadu,595,Vellore,Gudiyatham,-,-,-,-,-,-,-,-,13.03194444,78.86444444,08-02-2007 14:00,628
+102,Gollapally,Tamil Nadu SW GW,33,Tamil Nadu,595,Vellore,Gudiyatham,-,-,-,-,-,-,-,-,13.03194444,78.86444444,08-02-2007 15:00,563
+103,Gollapally,Tamil Nadu SW GW,33,Tamil Nadu,595,Vellore,Gudiyatham,-,-,-,-,-,-,-,-,13.03194444,78.86444444,08-02-2007 16:00,401
+104,Gollapally,Tamil Nadu SW GW,33,Tamil Nadu,595,Vellore,Gudiyatham,-,-,-,-,-,-,-,-,13.03194444,78.86444444,08-02-2007 17:00,187
+105,Gollapally,Tamil Nadu SW GW,33,Tamil Nadu,595,Vellore,Gudiyatham,-,-,-,-,-,-,-,-,13.03194444,78.86444444,08-02-2007 18:00,28
+106,Gollapally,Tamil Nadu SW GW,33,Tamil Nadu,595,Vellore,Gudiyatham,-,-,-,-,-,-,-,-,13.03194444,78.86444444,22-12-2008 09:00,129
+107,Gollapally,Tamil Nadu SW GW,33,Tamil Nadu,595,Vellore,Gudiyatham,-,-,-,-,-,-,-,-,13.03194444,78.86444444,22-12-2008 10:00,377
+108,Gollapally,Tamil Nadu SW GW,33,Tamil Nadu,595,Vellore,Gudiyatham,-,-,-,-,-,-,-,-,13.03194444,78.86444444,22-12-2008 11:00,315
+109,Gollapally,Tamil Nadu SW GW,33,Tamil Nadu,595,Vellore,Gudiyatham,-,-,-,-,-,-,-,-,13.03194444,78.86444444,22-12-2008 12:00,25
+110,Gollapally,Tamil Nadu SW GW,33,Tamil Nadu,595,Vellore,Gudiyatham,-,-,-,-,-,-,-,-,13.03194444,78.86444444,22-12-2008 13:00,106
+111,Gollapally,Tamil Nadu SW GW,33,Tamil Nadu,595,Vellore,Gudiyatham,-,-,-,-,-,-,-,-,13.03194444,78.86444444,22-12-2008 14:00,429
+112,Gollapally,Tamil Nadu SW GW,33,Tamil Nadu,595,Vellore,Gudiyatham,-,-,-,-,-,-,-,-,13.03194444,78.86444444,22-12-2008 15:00,189
+113,Gollapally,Tamil Nadu SW GW,33,Tamil Nadu,595,Vellore,Gudiyatham,-,-,-,-,-,-,-,-,13.03194444,78.86444444,22-12-2008 16:00,148
+114,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 06:25,22
+115,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 06:30,33
+116,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 06:35,40
+117,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 06:40,46
+118,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 06:45,56
+119,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 06:50,59
+120,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 06:55,66
+121,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 07:00,69
+122,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 07:05,72
+123,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 07:10,77
+124,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 07:15,86
+125,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 07:20,97
+126,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 07:25,98
+127,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 07:30,102
+128,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 07:35,104
+129,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 07:40,115
+130,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 07:45,134
+131,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 07:50,180
+132,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 07:55,223
+133,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 08:00,263
+134,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 08:05,302
+135,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 08:10,298
+136,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 08:15,303
+137,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 08:20,260
+138,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 08:25,324
+139,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 08:30,257
+140,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 08:35,303
+141,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 08:40,334
+142,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 08:45,367
+143,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 08:50,342
+144,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 08:55,399
+145,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 09:00,401
+146,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 09:05,202
+147,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 09:10,442
+148,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 09:15,445
+149,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 09:20,467
+150,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 09:25,500
+151,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 09:30,433
+152,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 09:35,464
+153,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 09:40,344
+154,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 09:45,445
+155,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 09:50,465
+156,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 09:55,460
+157,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 10:00,444
+158,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 10:05,367
+159,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 10:10,403
+160,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 10:15,411
+161,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 10:20,400
+162,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 10:25,500
+163,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 10:30,496
+164,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 10:35,517
+165,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 10:40,543
+166,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 10:45,275
+167,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 10:50,521
+168,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 10:55,565
+169,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 11:00,623
+170,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 11:05,258
+171,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 11:10,276
+172,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 11:15,256
+173,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 11:20,444
+174,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 11:25,559
+175,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 11:30,428
+176,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 11:35,251
+177,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 11:40,293
+178,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 11:45,304
+179,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 11:50,277
+180,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 11:55,253
+181,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 12:00,265
+182,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 12:05,280
+183,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 12:10,250
+184,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 12:15,274
+185,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 12:20,270
+186,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 12:25,232
+187,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 12:30,253
+188,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 12:35,284
+189,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 12:40,238
+190,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 12:45,174
+191,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 12:50,246
+192,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 12:55,259
+193,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 13:00,213
+194,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 13:05,451
+195,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 13:10,464
+196,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 13:15,206
+197,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 13:20,739
+198,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 13:25,764
+199,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 13:30,734
+200,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 13:35,733
+201,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 13:40,737
+202,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 13:45,283
+203,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 13:50,680
+204,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 13:55,679
+205,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 14:00,651
+206,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 14:05,597
+207,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 14:10,246
+208,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 14:15,467
+209,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 14:20,297
+210,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 14:25,549
+211,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 14:30,483
+212,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 14:35,518
+213,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 14:40,539
+214,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 14:45,160
+215,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 14:50,469
+216,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 14:55,447
+217,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 15:00,427
+218,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 15:05,461
+219,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 15:10,486
+220,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 15:15,461
+221,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 15:20,463
+222,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 15:25,465
+223,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 15:30,443
+224,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 15:35,432
+225,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 15:40,167
+226,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 15:45,386
+227,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 15:50,322
+228,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 15:55,243
+229,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 16:00,200
+230,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 16:05,231
+231,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 16:10,248
+232,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 16:15,198
+233,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 16:20,169
+234,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 16:25,141
+235,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 16:30,125
+236,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 16:35,123
+237,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 16:40,118
+238,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 16:45,119
+239,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 16:50,119
+240,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 16:55,110
+241,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 17:00,96
+242,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 17:05,87
+243,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 17:10,82
+244,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 17:15,75
+245,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 17:20,69
+246,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 17:25,62
+247,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 17:30,56
+248,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 17:35,50
+249,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 17:40,46
+250,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 17:45,45
+251,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 17:50,43
+252,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 17:55,39
+253,Grand Anicut,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,SRIRANGAM,-,-,-,-,-,-,-,-,10.82861111,78.81805556,14-04-2006 18:00,31
+254,Kalampatti,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Kayathar,-,-,-,-,-,-,-,-,9.11,77.78222222,29-12-2006 06:30,364
+255,Kalampatti,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Kayathar,-,-,-,-,-,-,-,-,9.11,77.78222222,29-12-2006 07:00,346
+256,Kalampatti,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Kayathar,-,-,-,-,-,-,-,-,9.11,77.78222222,29-12-2006 07:30,318
+257,Kalampatti,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Kayathar,-,-,-,-,-,-,-,-,9.11,77.78222222,29-12-2006 08:00,243
+258,Kalampatti,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Kayathar,-,-,-,-,-,-,-,-,9.11,77.78222222,29-12-2006 08:30,136
+259,Kalampatti,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Kayathar,-,-,-,-,-,-,-,-,9.11,77.78222222,29-12-2006 09:00,73
+260,Kalampatti,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Kayathar,-,-,-,-,-,-,-,-,9.11,77.78222222,29-12-2006 09:30,29
+261,Kalampatti,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Kayathar,-,-,-,-,-,-,-,-,9.11,77.78222222,29-12-2006 10:00,36
+262,Kalampatti,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Kayathar,-,-,-,-,-,-,-,-,9.11,77.78222222,29-12-2006 10:30,49
+263,Kalampatti,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Kayathar,-,-,-,-,-,-,-,-,9.11,77.78222222,29-12-2006 13:00,84
+264,Kalampatti,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Kayathar,-,-,-,-,-,-,-,-,9.11,77.78222222,29-12-2006 15:00,35
+265,Kalampatti,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Kayathar,-,-,-,-,-,-,-,-,9.11,77.78222222,29-12-2006 15:30,58
+266,Kalampatti,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Kayathar,-,-,-,-,-,-,-,-,9.11,77.78222222,29-12-2006 16:00,133
+267,Kalampatti,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Kayathar,-,-,-,-,-,-,-,-,9.11,77.78222222,29-12-2006 16:30,176
+268,Kalampatti,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Kayathar,-,-,-,-,-,-,-,-,9.11,77.78222222,29-12-2006 17:00,232
+269,Kalampatti,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Kayathar,-,-,-,-,-,-,-,-,9.11,77.78222222,29-12-2006 17:30,238
+270,Kalampatti,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Kayathar,-,-,-,-,-,-,-,-,9.11,77.78222222,29-12-2006 18:00,289
+271,Kalampatti,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Kayathar,-,-,-,-,-,-,-,-,9.11,77.78222222,29-12-2006 18:30,306
+272,Kalampatti,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Kayathar,-,-,-,-,-,-,-,-,9.11,77.78222222,29-12-2006 19:00,313
+273,Kalampatti,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Kayathar,-,-,-,-,-,-,-,-,9.11,77.78222222,29-12-2006 19:30,322
+274,Kalampatti,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Kayathar,-,-,-,-,-,-,-,-,9.11,77.78222222,29-12-2006 20:00,325
+275,Kalampatti,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Kayathar,-,-,-,-,-,-,-,-,9.11,77.78222222,29-12-2006 20:30,329
+276,Kalampatti,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Kayathar,-,-,-,-,-,-,-,-,9.11,77.78222222,29-12-2006 21:00,332
+277,Kalampatti,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Kayathar,-,-,-,-,-,-,-,-,9.11,77.78222222,29-12-2006 21:30,334
+278,Kalampatti,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Kayathar,-,-,-,-,-,-,-,-,9.11,77.78222222,29-12-2006 22:00,336
+279,Kalampatti,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Kayathar,-,-,-,-,-,-,-,-,9.11,77.78222222,29-12-2006 22:30,339
+280,Kalampatti,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Kayathar,-,-,-,-,-,-,-,-,9.11,77.78222222,29-12-2006 23:00,340
+281,Kalampatti,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Kayathar,-,-,-,-,-,-,-,-,9.11,77.78222222,29-12-2006 23:30,341
+282,Kalampatti,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Kayathar,-,-,-,-,-,-,-,-,9.11,77.78222222,30-12-2006 00:00,344
+283,Kalampatti,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Kayathar,-,-,-,-,-,-,-,-,9.11,77.78222222,30-12-2006 00:30,345
+284,Kalampatti,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Kayathar,-,-,-,-,-,-,-,-,9.11,77.78222222,30-12-2006 01:00,347
+285,Kalampatti,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Kayathar,-,-,-,-,-,-,-,-,9.11,77.78222222,30-12-2006 01:30,348
+286,Kalampatti,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Kayathar,-,-,-,-,-,-,-,-,9.11,77.78222222,30-12-2006 02:00,348
+287,Kalampatti,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Kayathar,-,-,-,-,-,-,-,-,9.11,77.78222222,30-12-2006 02:30,348
+288,Kalampatti,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Kayathar,-,-,-,-,-,-,-,-,9.11,77.78222222,30-12-2006 03:00,350
+289,Kalampatti,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Kayathar,-,-,-,-,-,-,-,-,9.11,77.78222222,30-12-2006 03:30,350
+290,Kalampatti,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Kayathar,-,-,-,-,-,-,-,-,9.11,77.78222222,30-12-2006 04:00,353
+291,Kalampatti,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Kayathar,-,-,-,-,-,-,-,-,9.11,77.78222222,30-12-2006 04:30,352
+292,Kalampatti,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Kayathar,-,-,-,-,-,-,-,-,9.11,77.78222222,30-12-2006 05:00,354
+293,Kalampatti,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Kayathar,-,-,-,-,-,-,-,-,9.11,77.78222222,30-12-2006 05:30,353
+294,Kalampatti,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Kayathar,-,-,-,-,-,-,-,-,9.11,77.78222222,30-12-2006 06:00,356
+295,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,17-11-2006 07:00,391
+296,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,17-11-2006 08:00,463
+297,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,17-11-2006 09:00,835
+298,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,17-11-2006 10:00,590
+299,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,17-11-2006 12:00,1079
+300,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,17-11-2006 13:00,983
+301,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,17-11-2006 14:00,501
+302,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,17-11-2006 15:00,685
+303,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,17-11-2006 16:00,359
+304,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,17-11-2006 17:00,360
+305,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,17-11-2006 18:00,356
+306,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,17-11-2006 19:00,358
+307,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,17-11-2006 20:00,358
+308,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,17-11-2006 21:00,356
+309,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,17-11-2006 22:00,356
+310,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,17-11-2006 23:00,357
+311,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,18-11-2006 00:00,359
+312,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,18-11-2006 01:00,359
+313,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,18-11-2006 02:00,361
+314,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,18-11-2006 03:00,363
+315,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,18-11-2006 04:00,361
+316,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,18-11-2006 05:00,361
+317,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,18-11-2006 06:00,363
+318,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,21-12-2006 07:00,32
+319,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,21-12-2006 08:00,188
+320,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,21-12-2006 09:00,369
+321,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,21-12-2006 10:00,520
+322,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,21-12-2006 11:00,610
+323,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,21-12-2006 12:00,658
+324,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,21-12-2006 13:00,590
+325,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,21-12-2006 14:00,538
+326,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,21-12-2006 15:00,449
+327,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,21-12-2006 17:00,135
+328,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,14-06-2008 07:00,448
+329,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,14-06-2008 08:00,578
+330,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,14-06-2008 09:00,760
+331,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,14-06-2008 10:00,790
+332,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,14-06-2008 11:00,1023
+333,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,14-06-2008 12:00,1102
+334,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,14-06-2008 13:00,502
+335,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,14-06-2008 14:00,795
+336,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,14-06-2008 15:00,941
+337,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,14-06-2008 16:00,768
+338,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,14-06-2008 17:00,493
+339,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,14-06-2008 18:00,374
+340,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,14-06-2008 19:00,339
+341,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,14-06-2008 20:00,341
+342,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,14-06-2008 21:00,341
+343,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,14-06-2008 22:00,342
+344,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,14-06-2008 23:00,341
+345,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,15-06-2008 00:00,342
+346,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,15-06-2008 01:00,343
+347,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,15-06-2008 02:00,343
+348,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,15-06-2008 03:00,345
+349,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,15-06-2008 04:00,346
+350,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,15-06-2008 05:00,348
+351,Kamachipuram,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,DINDIGUL,-,-,-,-,-,-,-,-,10.51333333,77.86083333,15-06-2008 06:00,355
+352,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,01-05-2003 00:00,229
+353,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,01-05-2003 01:00,224
+354,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,01-05-2003 02:00,205
+355,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,01-05-2003 03:00,206
+356,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,01-05-2003 04:00,194
+357,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,01-05-2003 05:00,216
+358,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,01-05-2003 06:00,255
+359,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,09-05-2003 07:00,250
+360,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,09-05-2003 08:00,288
+361,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,09-05-2003 09:00,351
+362,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,09-05-2003 10:00,379
+363,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,09-05-2003 11:00,537
+364,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,09-05-2003 12:00,545
+365,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,09-05-2003 13:00,557
+366,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,09-05-2003 14:00,589
+367,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,09-05-2003 15:00,737
+368,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,09-05-2003 16:00,560
+369,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,09-05-2003 17:00,486
+370,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,09-05-2003 18:00,499
+371,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,09-05-2003 19:00,266
+372,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,09-05-2003 20:00,270
+373,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,09-05-2003 21:00,257
+374,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,09-05-2003 23:00,201
+375,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,10-09-2006 07:00,142
+376,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,10-09-2006 08:00,210
+377,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,10-09-2006 09:00,596
+378,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,10-09-2006 10:00,736
+379,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,10-09-2006 11:00,868
+380,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,10-09-2006 12:00,200
+381,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,10-09-2006 13:00,192
+382,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,10-09-2006 14:00,777
+383,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,10-09-2006 15:00,658
+384,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,10-09-2006 16:00,237
+385,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,10-09-2006 17:00,299
+386,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,10-09-2006 18:00,127
+387,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,10-09-2006 19:00,95
+388,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,10-09-2006 20:00,104
+389,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,10-09-2006 21:00,101
+390,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,10-09-2006 22:00,106
+391,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,10-09-2006 23:00,104
+392,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,11-09-2006 00:00,104
+393,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,11-09-2006 01:00,104
+394,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,11-09-2006 02:00,105
+395,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,11-09-2006 03:00,100
+396,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,11-09-2006 04:00,107
+397,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,11-09-2006 05:00,105
+398,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,11-09-2006 06:00,110
+399,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,08-02-2007 07:00,31
+400,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,08-02-2007 08:00,192
+401,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,08-02-2007 09:00,264
+402,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,08-02-2007 10:00,250
+403,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,08-02-2007 11:00,287
+404,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,08-02-2007 12:00,358
+405,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,08-02-2007 13:00,485
+406,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,08-02-2007 14:00,329
+407,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,08-02-2007 15:00,221
+408,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,08-02-2007 16:00,164
+409,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,08-02-2007 17:00,85
+410,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,20-02-2008 07:00,30
+411,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,20-02-2008 08:00,221
+412,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,20-02-2008 09:00,391
+413,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,20-02-2008 10:00,214
+414,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,20-02-2008 11:00,740
+415,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,20-02-2008 12:00,804
+416,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,20-02-2008 13:00,839
+417,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,20-02-2008 14:00,730
+418,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,20-02-2008 15:00,612
+419,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,20-02-2008 16:00,359
+420,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,20-02-2008 17:00,197
+421,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,20-02-2008 18:00,37
+422,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,31-03-2008 07:00,88
+423,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,31-03-2008 08:00,281
+424,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,31-03-2008 09:00,468
+425,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,31-03-2008 10:00,639
+426,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,31-03-2008 11:00,768
+427,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,31-03-2008 12:00,196
+428,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,31-03-2008 13:00,250
+429,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,31-03-2008 14:00,274
+430,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,31-03-2008 15:00,297
+431,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,31-03-2008 16:00,411
+432,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,31-03-2008 17:00,219
+433,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,31-03-2008 18:00,49
+434,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,21-07-2008 07:00,76
+435,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,21-07-2008 08:00,251
+436,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,21-07-2008 09:00,233
+437,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,21-07-2008 10:00,426
+438,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,21-07-2008 11:00,536
+439,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,21-07-2008 12:00,340
+440,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,21-07-2008 13:00,342
+441,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,21-07-2008 14:00,308
+442,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,21-07-2008 15:00,280
+443,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,21-07-2008 16:00,251
+444,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,21-07-2008 17:00,247
+445,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,21-07-2008 18:00,83
+446,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,14-03-2014 07:00,95
+447,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,14-03-2014 08:00,157
+448,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,14-03-2014 09:00,448
+449,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,14-03-2014 10:00,289
+450,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,14-03-2014 11:00,475
+451,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,14-03-2014 12:00,337
+452,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,14-03-2014 13:00,332
+453,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,14-03-2014 14:00,255
+454,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,14-03-2014 15:00,219
+455,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,14-03-2014 16:00,493
+456,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,14-03-2014 17:00,248
+457,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,14-03-2014 18:00,30
+458,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,27-03-2014 07:00,38
+459,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,27-03-2014 08:00,198
+460,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,27-03-2014 09:00,253
+461,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,27-03-2014 10:00,608
+462,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,27-03-2014 11:00,704
+463,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,27-03-2014 12:00,860
+464,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,27-03-2014 13:00,828
+465,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,27-03-2014 14:00,157
+466,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,27-03-2014 15:00,638
+467,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,27-03-2014 16:00,428
+468,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,27-03-2014 17:00,229
+469,Keelaeral,Tamil Nadu SW GW,33,Tamil Nadu,594,Thoothukudi,Ettayapuram,-,-,-,-,-,-,-,-,9.09694444,78.00666667,27-03-2014 18:00,44
+470,Koradachery,Tamil Nadu SW GW,33,Tamil Nadu,590,Tiruvarur,NEEDAMANGALAM,-,-,-,-,-,-,-,-,10.77361111,79.48916667,01-01-2000 00:05,360
+471,Kundrakudi,Tamil Nadu SW GW,33,Tamil Nadu,585,Sivaganga,Thiruppattur,-,-,-,-,-,-,-,-,10.11138889,78.70472222,20-10-2008 11:00,910
+472,Kundrakudi,Tamil Nadu SW GW,33,Tamil Nadu,585,Sivaganga,Thiruppattur,-,-,-,-,-,-,-,-,10.11138889,78.70472222,20-10-2008 12:00,991
+473,Kundrakudi,Tamil Nadu SW GW,33,Tamil Nadu,585,Sivaganga,Thiruppattur,-,-,-,-,-,-,-,-,10.11138889,78.70472222,20-10-2008 13:00,967
+474,Kundrakudi,Tamil Nadu SW GW,33,Tamil Nadu,585,Sivaganga,Thiruppattur,-,-,-,-,-,-,-,-,10.11138889,78.70472222,20-10-2008 14:00,476
+475,Kundrakudi,Tamil Nadu SW GW,33,Tamil Nadu,585,Sivaganga,Thiruppattur,-,-,-,-,-,-,-,-,10.11138889,78.70472222,20-10-2008 15:00,485
+476,Kundrakudi,Tamil Nadu SW GW,33,Tamil Nadu,585,Sivaganga,Thiruppattur,-,-,-,-,-,-,-,-,10.11138889,78.70472222,20-10-2008 16:00,559
+477,Kundrakudi,Tamil Nadu SW GW,33,Tamil Nadu,585,Sivaganga,Thiruppattur,-,-,-,-,-,-,-,-,10.11138889,78.70472222,12-11-2008 10:00,493
+478,Kundrakudi,Tamil Nadu SW GW,33,Tamil Nadu,585,Sivaganga,Thiruppattur,-,-,-,-,-,-,-,-,10.11138889,78.70472222,12-11-2008 11:00,576
+479,Kundrakudi,Tamil Nadu SW GW,33,Tamil Nadu,585,Sivaganga,Thiruppattur,-,-,-,-,-,-,-,-,10.11138889,78.70472222,12-11-2008 12:00,253
+480,Kundrakudi,Tamil Nadu SW GW,33,Tamil Nadu,585,Sivaganga,Thiruppattur,-,-,-,-,-,-,-,-,10.11138889,78.70472222,12-11-2008 13:00,603
+481,Kundrakudi,Tamil Nadu SW GW,33,Tamil Nadu,585,Sivaganga,Thiruppattur,-,-,-,-,-,-,-,-,10.11138889,78.70472222,12-11-2008 14:00,391
+482,Kundrakudi,Tamil Nadu SW GW,33,Tamil Nadu,585,Sivaganga,Thiruppattur,-,-,-,-,-,-,-,-,10.11138889,78.70472222,12-11-2008 15:00,385
+483,Kundrakudi,Tamil Nadu SW GW,33,Tamil Nadu,585,Sivaganga,Thiruppattur,-,-,-,-,-,-,-,-,10.11138889,78.70472222,12-11-2008 16:00,190
+484,Kurungulam,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,-,-,-,-,-,-,-,-,-,10.65638889,79.09805556,01-01-2000 00:05,186
+485,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,23-07-2006 07:00,59
+486,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,23-07-2006 09:00,446
+487,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,23-07-2006 10:00,172
+488,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,23-07-2006 11:00,392
+489,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,23-07-2006 12:00,686
+490,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,23-07-2006 13:00,273
+491,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,23-07-2006 14:00,302
+492,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,23-07-2006 15:00,241
+493,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,23-07-2006 16:00,305
+494,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,23-07-2006 17:00,108
+495,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,23-07-2006 18:00,27
+496,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,04-02-2007 07:00,31
+497,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,04-02-2007 08:00,71
+498,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,04-02-2007 10:00,181
+499,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,04-02-2007 11:00,256
+500,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,04-02-2007 12:00,704
+501,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,04-02-2007 13:00,217
+502,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,04-02-2007 14:00,571
+503,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,04-02-2007 15:00,257
+504,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,04-02-2007 16:00,251
+505,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,04-02-2007 17:00,36
+506,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,06-06-2008 07:00,142
+507,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,06-06-2008 08:00,275
+508,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,06-06-2008 09:00,454
+509,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,06-06-2008 10:00,566
+510,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,06-06-2008 11:00,648
+511,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,06-06-2008 12:00,685
+512,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,06-06-2008 13:00,178
+513,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,06-06-2008 14:00,129
+514,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,06-06-2008 15:00,463
+515,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,06-06-2008 16:00,321
+516,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,06-06-2008 17:00,185
+517,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,06-06-2008 18:00,32
+518,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,31-10-2008 07:00,64
+519,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,31-10-2008 08:00,219
+520,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,31-10-2008 09:00,365
+521,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,31-10-2008 10:00,336
+522,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,31-10-2008 11:00,268
+523,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,31-10-2008 12:00,384
+524,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,31-10-2008 13:00,622
+525,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,31-10-2008 14:00,567
+526,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,31-10-2008 15:00,143
+527,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,31-10-2008 16:00,57
+528,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,31-10-2008 17:00,83
+529,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,16-03-2014 08:00,142
+530,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,16-03-2014 09:00,302
+531,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,16-03-2014 10:00,471
+532,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,16-03-2014 11:00,537
+533,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,16-03-2014 12:00,606
+534,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,16-03-2014 13:00,589
+535,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,16-03-2014 14:00,532
+536,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,16-03-2014 15:00,404
+537,Lekkur,Tamil Nadu SW GW,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,-,-,-,-,-,-,11.46611111,79.01861111,16-03-2014 16:00,266
+538,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,16-06-2008 07:00,64
+539,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,16-06-2008 08:00,268
+540,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,16-06-2008 09:00,450
+541,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,16-06-2008 10:00,582
+542,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,16-06-2008 11:00,654
+543,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,16-06-2008 12:00,725
+544,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,16-06-2008 13:00,169
+545,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,16-06-2008 14:00,149
+546,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,16-06-2008 15:00,522
+547,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,16-06-2008 16:00,366
+548,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,16-06-2008 17:00,42
+549,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,16-06-2008 18:00,25
+550,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,18-06-2008 07:00,42
+551,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,18-06-2008 08:00,268
+552,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,18-06-2008 09:00,417
+553,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,18-06-2008 10:00,583
+554,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,18-06-2008 11:00,654
+555,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,18-06-2008 12:00,714
+556,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,18-06-2008 13:00,251
+557,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,18-06-2008 14:00,252
+558,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,18-06-2008 15:00,159
+559,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,18-06-2008 16:00,125
+560,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,15-09-2008 07:00,65
+561,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,15-09-2008 08:00,59
+562,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,15-09-2008 09:00,459
+563,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,15-09-2008 10:00,593
+564,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,15-09-2008 11:00,702
+565,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,15-09-2008 12:00,740
+566,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,15-09-2008 13:00,721
+567,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,15-09-2008 14:00,655
+568,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,15-09-2008 15:00,92
+569,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,15-09-2008 16:00,244
+570,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,15-09-2008 17:00,39
+571,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,29-12-2008 08:00,154
+572,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,29-12-2008 09:00,319
+573,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,29-12-2008 10:00,461
+574,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,29-12-2008 11:00,314
+575,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,29-12-2008 12:00,635
+576,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,29-12-2008 13:00,582
+577,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,29-12-2008 14:00,492
+578,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,29-12-2008 15:00,448
+579,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,29-12-2008 16:00,109
+580,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,29-12-2008 17:00,42
+581,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,26-06-2020 08:00,142
+582,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,26-06-2020 09:00,316
+583,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,26-06-2020 10:00,465
+584,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,26-06-2020 11:00,607
+585,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,26-06-2020 12:00,675
+586,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,26-06-2020 13:00,627
+587,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,26-06-2020 14:00,593
+588,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,26-06-2020 15:00,445
+589,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,26-06-2020 16:00,124
+590,Mayanur,Tamil Nadu SW GW,33,Tamil Nadu,576,Karur,Krishnarayapuram,-,-,-,-,-,-,-,-,10.95583333,78.23972222,26-06-2020 17:00,76
+591,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,24-04-2003 09:00,33
+592,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,24-04-2003 10:00,39
+593,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,09-05-2003 08:00,64
+594,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,09-05-2003 09:00,146
+595,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,09-05-2003 10:00,101
+596,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,09-05-2003 11:00,244
+597,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,09-05-2003 12:00,414
+598,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,09-05-2003 13:00,268
+599,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,09-05-2003 14:00,222
+600,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,09-05-2003 15:00,394
+601,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,09-05-2003 16:00,236
+602,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,09-05-2003 17:00,92
+603,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,18-02-2007 07:00,77
+604,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,18-02-2007 08:00,229
+605,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,18-02-2007 09:00,387
+606,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,18-02-2007 10:00,263
+607,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,18-02-2007 11:00,615
+608,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,18-02-2007 12:00,721
+609,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,18-02-2007 13:00,635
+610,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,18-02-2007 14:00,547
+611,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,18-02-2007 15:00,467
+612,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,18-02-2007 16:00,59
+613,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,18-02-2007 17:00,58
+614,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,16-03-2014 07:00,75
+615,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,16-03-2014 08:00,307
+616,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,16-03-2014 09:00,500
+617,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,16-03-2014 10:00,555
+618,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,16-03-2014 11:00,605
+619,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,16-03-2014 12:00,221
+620,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,16-03-2014 13:00,830
+621,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,16-03-2014 14:00,447
+622,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,16-03-2014 15:00,786
+623,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,16-03-2014 16:00,189
+624,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,16-03-2014 17:00,246
+625,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,17-12-2017 07:00,73
+626,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,17-12-2017 08:00,247
+627,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,17-12-2017 09:00,417
+628,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,17-12-2017 10:00,586
+629,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,17-12-2017 11:00,659
+630,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,17-12-2017 12:00,698
+631,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,17-12-2017 13:00,644
+632,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,17-12-2017 14:00,349
+633,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,17-12-2017 15:00,461
+634,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,17-12-2017 16:00,125
+635,Perambalur,Tamil Nadu SW GW,33,Tamil Nadu,591,Tiruchirappalli,-,-,-,-,-,-,-,-,-,11.22555556,78.87555556,17-12-2017 17:00,44
+636,Raya Raghunatha Samudiram,Tamil Nadu SW GW,33,Tamil Nadu,582,Pudukkottai,Thirumayam,-,-,-,-,-,-,-,-,10.25694444,78.81833333,11-09-2006 07:00,54
+637,Raya Raghunatha Samudiram,Tamil Nadu SW GW,33,Tamil Nadu,582,Pudukkottai,Thirumayam,-,-,-,-,-,-,-,-,10.25694444,78.81833333,11-09-2006 08:00,111
+638,Raya Raghunatha Samudiram,Tamil Nadu SW GW,33,Tamil Nadu,582,Pudukkottai,Thirumayam,-,-,-,-,-,-,-,-,10.25694444,78.81833333,08-02-2007 07:00,29
+639,Raya Raghunatha Samudiram,Tamil Nadu SW GW,33,Tamil Nadu,582,Pudukkottai,Thirumayam,-,-,-,-,-,-,-,-,10.25694444,78.81833333,08-02-2007 08:00,198
+640,Raya Raghunatha Samudiram,Tamil Nadu SW GW,33,Tamil Nadu,582,Pudukkottai,Thirumayam,-,-,-,-,-,-,-,-,10.25694444,78.81833333,08-01-2008 08:00,81
+641,Raya Raghunatha Samudiram,Tamil Nadu SW GW,33,Tamil Nadu,582,Pudukkottai,Thirumayam,-,-,-,-,-,-,-,-,10.25694444,78.81833333,08-01-2008 09:00,115
+642,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,24-04-2003 07:00,30
+643,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,24-04-2003 08:00,143
+644,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,24-04-2003 09:00,340
+645,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,24-04-2003 10:00,648
+646,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,24-04-2003 11:00,511
+647,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,24-04-2003 12:00,244
+648,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,24-04-2003 13:00,327
+649,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,24-04-2003 14:00,111
+650,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,24-04-2003 15:00,22
+651,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,24-04-2003 17:00,51
+652,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,09-05-2003 08:00,58
+653,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,09-05-2003 09:00,94
+654,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,09-05-2003 10:00,130
+655,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,09-05-2003 11:00,174
+656,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,09-05-2003 12:00,199
+657,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,09-05-2003 13:00,149
+658,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,09-05-2003 14:00,146
+659,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,09-05-2003 15:00,126
+660,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,09-05-2003 16:00,129
+661,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,09-05-2003 17:00,75
+662,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,11-07-2006 07:00,27
+663,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,11-07-2006 08:00,59
+664,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,11-07-2006 09:00,116
+665,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,11-07-2006 10:00,182
+666,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,11-07-2006 11:00,242
+667,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,11-07-2006 12:00,285
+668,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,11-07-2006 13:00,357
+669,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,11-07-2006 14:00,319
+670,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,11-07-2006 15:00,217
+671,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,11-07-2006 16:00,110
+672,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,11-07-2006 17:00,108
+673,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,11-07-2006 18:00,24
+674,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,04-02-2007 07:00,44
+675,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,04-02-2007 08:00,115
+676,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,04-02-2007 09:00,374
+677,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,04-02-2007 10:00,216
+678,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,04-02-2007 11:00,392
+679,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,04-02-2007 12:00,302
+680,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,04-02-2007 13:00,273
+681,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,04-02-2007 14:00,336
+682,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,04-02-2007 15:00,190
+683,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,04-02-2007 16:00,197
+684,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,04-02-2007 17:00,69
+685,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,14-02-2007 07:00,30
+686,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,14-02-2007 08:00,133
+687,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,14-02-2007 09:00,346
+688,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,14-02-2007 10:00,193
+689,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,14-02-2007 11:00,744
+690,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,14-02-2007 12:00,752
+691,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,14-02-2007 13:00,250
+692,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,14-02-2007 14:00,163
+693,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,14-02-2007 15:00,153
+694,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,14-02-2007 16:00,50
+695,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,14-02-2007 17:00,37
+696,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,16-06-2008 07:00,32
+697,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,16-06-2008 08:00,52
+698,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,16-06-2008 09:00,322
+699,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,16-06-2008 10:00,597
+700,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,16-06-2008 11:00,675
+701,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,16-06-2008 12:00,117
+702,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,16-06-2008 13:00,711
+703,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,16-06-2008 14:00,517
+704,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,16-06-2008 15:00,574
+705,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,16-06-2008 16:00,391
+706,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,16-06-2008 17:00,49
+707,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,16-06-2008 18:00,25
+708,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,26-09-2008 07:00,31
+709,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,26-09-2008 08:00,60
+710,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,26-09-2008 09:00,103
+711,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,26-09-2008 10:00,136
+712,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,26-09-2008 11:00,238
+713,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,26-09-2008 12:00,297
+714,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,26-09-2008 13:00,280
+715,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,26-09-2008 14:00,355
+716,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,26-09-2008 15:00,222
+717,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,26-09-2008 16:00,105
+718,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,26-09-2008 17:00,48
+719,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,17-12-2017 08:00,248
+720,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,17-12-2017 09:00,412
+721,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,17-12-2017 10:00,637
+722,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,17-12-2017 11:00,661
+723,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,17-12-2017 12:00,642
+724,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,17-12-2017 13:00,633
+725,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,17-12-2017 14:00,524
+726,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,17-12-2017 15:00,386
+727,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,17-12-2017 16:00,34
+728,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,26-06-2020 08:00,173
+729,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,26-06-2020 09:00,572
+730,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,26-06-2020 10:00,703
+731,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,26-06-2020 11:00,56
+732,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,26-06-2020 12:00,811
+733,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,26-06-2020 13:00,745
+734,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,26-06-2020 14:00,659
+735,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,26-06-2020 15:00,519
+736,Thanjavur,Tamil Nadu SW GW,33,Tamil Nadu,586,Thanjavur,THANJAVUR,-,-,-,-,-,-,-,-,10.77277778,79.13583333,26-06-2020 16:00,37
+737,Uppar Dam,Tamil Nadu SW GW,33,Tamil Nadu,634,Tiruppur,Dharapuram,-,-,-,-,-,-,-,-,10.7775,76.42277778,26-06-2020 08:00,194
+738,Uppar Dam,Tamil Nadu SW GW,33,Tamil Nadu,634,Tiruppur,Dharapuram,-,-,-,-,-,-,-,-,10.7775,76.42277778,26-06-2020 09:00,394
+739,Uppar Dam,Tamil Nadu SW GW,33,Tamil Nadu,634,Tiruppur,Dharapuram,-,-,-,-,-,-,-,-,10.7775,76.42277778,26-06-2020 10:00,354
+740,Uppar Dam,Tamil Nadu SW GW,33,Tamil Nadu,634,Tiruppur,Dharapuram,-,-,-,-,-,-,-,-,10.7775,76.42277778,26-06-2020 11:00,250
+741,Uppar Dam,Tamil Nadu SW GW,33,Tamil Nadu,634,Tiruppur,Dharapuram,-,-,-,-,-,-,-,-,10.7775,76.42277778,26-06-2020 12:00,839
+742,Uppar Dam,Tamil Nadu SW GW,33,Tamil Nadu,634,Tiruppur,Dharapuram,-,-,-,-,-,-,-,-,10.7775,76.42277778,26-06-2020 13:00,235
+743,Uppar Dam,Tamil Nadu SW GW,33,Tamil Nadu,634,Tiruppur,Dharapuram,-,-,-,-,-,-,-,-,10.7775,76.42277778,26-06-2020 14:00,740
+744,Uppar Dam,Tamil Nadu SW GW,33,Tamil Nadu,634,Tiruppur,Dharapuram,-,-,-,-,-,-,-,-,10.7775,76.42277778,26-06-2020 15:00,613
+745,Uppar Dam,Tamil Nadu SW GW,33,Tamil Nadu,634,Tiruppur,Dharapuram,-,-,-,-,-,-,-,-,10.7775,76.42277778,26-06-2020 16:00,418
+746,Uppar Dam,Tamil Nadu SW GW,33,Tamil Nadu,634,Tiruppur,Dharapuram,-,-,-,-,-,-,-,-,10.7775,76.42277778,26-06-2020 17:00,232
+747,Uppar Dam,Tamil Nadu SW GW,33,Tamil Nadu,634,Tiruppur,Dharapuram,-,-,-,-,-,-,-,-,10.7775,76.42277778,26-06-2020 18:00,24
+748,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,09-05-2003 07:00,45
+749,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,09-05-2003 08:00,67
+750,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,09-05-2003 09:00,145
+751,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,09-05-2003 10:00,185
+752,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,09-05-2003 11:00,204
+753,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,09-05-2003 12:00,243
+754,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,09-05-2003 13:00,314
+755,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,09-05-2003 14:00,364
+756,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,09-05-2003 15:00,260
+757,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,09-05-2003 16:00,198
+758,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,09-05-2003 17:00,128
+759,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,09-05-2003 18:00,55
+760,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,01-08-2006 07:00,68
+761,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,01-08-2006 08:00,168
+762,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,01-08-2006 09:00,250
+763,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,01-08-2006 10:00,617
+764,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,01-08-2006 11:00,894
+765,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,01-08-2006 12:00,315
+766,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,01-08-2006 13:00,881
+767,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,01-08-2006 14:00,335
+768,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,01-08-2006 15:00,269
+769,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,01-08-2006 16:00,159
+770,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,01-08-2006 17:00,136
+771,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,01-08-2006 18:00,38
+772,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,09-05-2008 07:00,153
+773,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,09-05-2008 08:00,335
+774,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,09-05-2008 09:00,498
+775,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,09-05-2008 10:00,622
+776,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,09-05-2008 11:00,726
+777,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,09-05-2008 12:00,235
+778,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,09-05-2008 13:00,158
+779,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,09-05-2008 14:00,681
+780,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,09-05-2008 15:00,408
+781,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,09-05-2008 16:00,360
+782,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,09-05-2008 17:00,163
+783,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,09-05-2008 18:00,27
+784,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,08-10-2008 07:00,98
+785,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,08-10-2008 08:00,244
+786,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,08-10-2008 09:00,416
+787,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,08-10-2008 10:00,583
+788,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,08-10-2008 11:00,267
+789,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,08-10-2008 12:00,278
+790,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,08-10-2008 13:00,139
+791,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,08-10-2008 14:00,140
+792,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,08-10-2008 15:00,176
+793,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,08-10-2008 16:00,34
+794,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,12-03-2014 07:00,44
+795,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,12-03-2014 08:00,255
+796,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,12-03-2014 09:00,466
+797,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,12-03-2014 10:00,612
+798,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,12-03-2014 11:00,729
+799,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,12-03-2014 12:00,788
+800,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,12-03-2014 13:00,821
+801,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,12-03-2014 14:00,770
+802,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,12-03-2014 15:00,172
+803,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,12-03-2014 16:00,418
+804,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,12-03-2014 17:00,196
+805,Vaniyar Reservoir,Tamil Nadu SW GW,33,Tamil Nadu,571,Dharmapuri,Pappireddipatti,-,-,-,-,-,-,-,-,11.905,78.325,12-03-2014 18:00,31
+806,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,09-05-2003 13:00,876
+807,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,09-05-2003 14:00,791
+808,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,09-05-2003 15:00,667
+809,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,09-05-2003 16:00,231
+810,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,09-05-2003 17:00,258
+811,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,09-05-2003 18:00,43
+812,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,28-01-2006 07:00,30
+813,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,28-01-2006 08:00,193
+814,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,28-01-2006 09:00,405
+815,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,28-01-2006 10:00,582
+816,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,28-01-2006 11:00,711
+817,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,28-01-2006 12:00,800
+818,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,28-01-2006 13:00,794
+819,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,28-01-2006 14:00,712
+820,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,28-01-2006 15:00,594
+821,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,28-01-2006 16:00,192
+822,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,28-01-2006 17:00,170
+823,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,28-01-2006 18:00,27
+824,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,04-02-2007 07:00,485
+825,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,04-02-2007 08:00,711
+826,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,04-02-2007 09:00,864
+827,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,04-02-2007 10:00,1025
+828,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,04-02-2007 11:00,1142
+829,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,04-02-2007 12:00,1159
+830,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,04-02-2007 13:00,680
+831,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,04-02-2007 14:00,665
+832,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,04-02-2007 15:00,588
+833,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,04-02-2007 16:00,816
+834,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,04-02-2007 17:00,548
+835,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,04-02-2007 18:00,468
+836,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,04-02-2007 19:00,437
+837,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,04-02-2007 20:00,433
+838,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,04-02-2007 21:00,439
+839,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,04-02-2007 22:00,440
+840,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,04-02-2007 23:00,438
+841,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,05-02-2007 00:00,437
+842,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,05-02-2007 01:00,431
+843,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,05-02-2007 02:00,431
+844,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,05-02-2007 03:00,428
+845,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,05-02-2007 04:00,430
+846,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,05-02-2007 05:00,429
+847,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,05-02-2007 06:00,426
+848,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,08-02-2007 07:00,117
+849,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,08-02-2007 08:00,180
+850,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,08-02-2007 10:00,553
+851,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,08-02-2007 11:00,309
+852,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,08-02-2007 12:00,180
+853,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,08-02-2007 13:00,198
+854,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,08-02-2007 14:00,280
+855,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,08-02-2007 15:00,213
+856,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,08-02-2007 16:00,176
+857,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,08-02-2007 17:00,128
+858,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,08-02-2007 18:00,79
+859,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,08-02-2007 19:00,77
+860,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,08-02-2007 20:00,76
+861,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,08-02-2007 21:00,81
+862,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,08-02-2007 22:00,78
+863,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,08-02-2007 23:00,78
+864,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,09-02-2007 00:00,77
+865,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,09-02-2007 01:00,79
+866,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,09-02-2007 02:00,77
+867,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,09-02-2007 03:00,79
+868,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,09-02-2007 04:00,79
+869,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,09-02-2007 05:00,79
+870,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,09-02-2007 06:00,80
+871,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,17-12-2017 08:00,304
+872,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,17-12-2017 09:00,450
+873,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,17-12-2017 10:00,665
+874,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,17-12-2017 11:00,720
+875,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,17-12-2017 12:00,624
+876,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,17-12-2017 13:00,292
+877,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,17-12-2017 14:00,280
+878,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,17-12-2017 15:00,283
+879,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,17-12-2017 16:00,338
+880,Viralipatti,Tamil Nadu SW GW,33,Tamil Nadu,572,Dindigul,NILAKOTTAI,-,-,-,-,-,-,-,-,10.12611111,77.70777778,17-12-2017 17:00,219
