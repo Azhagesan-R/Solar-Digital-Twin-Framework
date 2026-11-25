@@ -1,0 +1,52 @@
+services:
+  # --- DATA ENGINEERING PLATFORM ---
+  spark:
+    build:
+      context: ..
+      dockerfile: docker/spark.dockerfile
+    container_name: solar-spark
+    # Safe interactive bash execution thread loop keeps the container alive persistently
+    entrypoint: ["/bin/bash"]
+    command: ["-c", "while true; do sleep 30; done"]
+    volumes:
+      # Unified source code mount
+      - ../data_preprocessing:/opt/project/src
+      # Dataset mount directories
+      - ../datasets/Power_Generation_Weather:/opt/project/raw_data/telemetry
+      - ../datasets/Anamoly_Detection:/opt/project/raw_data/anomalies
+      # REMOVED: The spark_scratch_dir volume line has been deleted to clear file locks
+    ports:
+      - "8085:8080"
+    networks:
+      - mtech-term4
+
+  # --- STREAMING PIPELINE CONFIGURATION ---
+  lab-zookeeper-1:
+    image: confluentinc/cp-zookeeper:7.3.0
+    container_name: lab-zookeeper-1
+    environment:
+      ZOOKEEPER_CLIENT_PORT: 2181
+      KAFKA_OPTS: "-Djdk.internal.platform.container=none"
+    networks:
+      - mtech-term4
+
+  lab-kafka-1:
+    image: confluentinc/cp-kafka:7.3.0
+    container_name: lab-kafka-1
+    ports:
+      - "9092:9092"
+      - "29092:29092"
+    environment:
+      KAFKA_ZOOKEEPER_CONNECT: lab-zookeeper-1:2181
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://lab-kafka-1:9092,PLAINTEXT_HOST://localhost:29092
+      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: PLAINTEXT:PLAINTEXT,PLAINTEXT_HOST:PLAINTEXT
+      KAFKA_INTER_BROKER_LISTENER_NAME: PLAINTEXT
+      KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
+    depends_on:
+      - lab-zookeeper-1
+    networks:
+      - mtech-term4
+
+networks:
+  mtech-term4:
+    driver: bridge
